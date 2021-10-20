@@ -15,7 +15,7 @@ for(Account acc :contacts){
 acc.Number_of_active_contacts__c=acc.contacts.size();
 a.add(acc);
 }
-update a;
+update;
 }
 }
 }
