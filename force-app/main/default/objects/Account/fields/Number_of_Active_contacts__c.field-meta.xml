@@ -8,5 +8,5 @@
     <scale>0</scale>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Number</type>
-    <unique>fal</unique>
+    <unique>false</unique>
 </CustomField>
